@@ -3,13 +3,14 @@
 
 I am Yunding Wu, a 4th year undergraduate student at **UC San Diego**, and I major in *Mathematics-Computer Science*.
 
+[I want to see your cat!](#my-cat)
 ```
 print('Hello World')
 ```
 
 [Go to my GitHub page](https://github.com/YundingWu)
 
-[I want to see your cat!](#my-cat)
+
 
 ## Favorite Courses
 - MATH 184
