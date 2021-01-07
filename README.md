@@ -21,6 +21,6 @@ print('Hello World')
 - [ ] Database
 
 ### My Cat
-![cat](./cat.jpg)
+<img src="./cat.jpg" alt="cat" style="zoom:33%;" />
 
 [Another picture of my cat](./cat2.jpg)
