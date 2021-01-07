@@ -7,7 +7,9 @@ I am Yunding Wu, a 4th year undergraduate student at **UC San Diego**, and I maj
 print('Hello World')
 ```
 
-[Link to my GitHub page](https://github.com/YundingWu)
+[Go to my GitHub page](https://github.com/YundingWu)
+
+[I want to see your cat!](#my-cat)
 
 ## Favorite Courses
 - MATH 184
